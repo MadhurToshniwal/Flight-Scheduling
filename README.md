@@ -1,5 +1,17 @@
 # ✈️ Flight Scheduling Optimization System
 
+<div align="center">
+
+## 🚀 **Live Demo Available**
+### **View the project live:**
+**[🌐 Interactive Dashboard](https://flight-scheduling-uy6kfnrktsd2yb7kkpbayr.streamlit.app/)**
+
+*Experience real-time flight optimization and ML-powered predictions*
+
+</div>
+
+---
+
 ## 🌟 Overview
 
 **AeroFlow AI** is an intelligent flight scheduling optimization system developed for the **Honeywell Hackathon 2025**. This system combines advanced machine learning algorithms with optimization techniques to minimize flight delays and improve airport operational efficiency.
@@ -8,6 +20,13 @@
 ![ML Model](https://img.shields.io/badge/ML%20Model-Random%20Forest-blue)
 ![Algorithm](https://img.shields.io/badge/Optimization-Genetic%20Algorithm-orange)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+
+## 🚀 **Live Demo**
+
+### **View the project live:**
+🌐 **[Flight Scheduling Dashboard](https://flight-scheduling-uy6kfnrktsd2yb7kkpbayr.streamlit.app/)** 
+
+*Experience the interactive dashboard with real-time flight optimization and ML-powered delay predictions*
 
 ## 🎯 Problem Statement
 
@@ -139,6 +158,20 @@ streamlit run streamlit_dashboard.py
 
 ### 5. Access Dashboard
 Open your browser and navigate to: `http://localhost:8501`
+
+### 🌐 **Live Demo**
+**Don't want to install locally? Try the live demo:**
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://flight-scheduling-uy6kfnrktsd2yb7kkpbayr.streamlit.app/)
+
+**Features available in live demo:**
+- 📊 **Real-time flight analytics** with interactive charts
+- 🔮 **ML-powered delay predictions** using Random Forest
+- ⚡ **Schedule optimization** with Genetic Algorithm
+- 🎯 **Performance metrics** and KPI dashboards
+- 📈 **Route network analysis** and visualization
+
+> **Note:** The live demo uses sample data. For production use with real flight data, run locally with your Excel files.
 
 ## 📊 Machine Learning Model Details
 
@@ -301,6 +334,12 @@ For support, please reach out:
 - 📧 **Email**: madhurtoshniwal03@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/MadhurToshniwal/Flight-Scheduling/issues)
 - 📖 **Documentation**: [Project Wiki](https://github.com/MadhurToshniwal/Flight-Scheduling/wiki)
+
+## 🔗 **Quick Links**
+
+- 🌐 **[Live Demo](https://flight-scheduling-uy6kfnrktsd2yb7kkpbayr.streamlit.app/)** - Try the application online
+- 📁 **[GitHub Repository](https://github.com/MadhurToshniwal/Flight-Scheduling)** - View source code
+- 📋 **[Download Latest Release](https://github.com/MadhurToshniwal/Flight-Scheduling/releases)** - Get the latest version
 
 ---
 
